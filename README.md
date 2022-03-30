@@ -49,6 +49,7 @@ Update maven dependencies in case you are using any other version of the listed 
 
 ![Alt text](src/main/resources/taxi-database-image.png?raw=true "Database")
 
+---
 ##Contacts
 My [LinkedIn](https://www.linkedin.com/in/vadym-turchenko-6b5884209/)  
 I am open for new opportunities as Junior Java Developer

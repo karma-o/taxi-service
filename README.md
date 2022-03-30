@@ -45,7 +45,8 @@ Update maven dependencies in case you are using any other version of the listed 
 4. In the ```src/main/resources/log4j2.xml``` at line 7 you also need to set ```ABSOLUTE_PATH``` to your ```.log``` file.
 
 ##Your database should look like this
-![Alt text](src/main/resources/taxi-database-image.png?raw=true "Title")
+
+![Alt text](src/main/resources/taxi-database-image.png?raw=true "Database")
 
 ##Contacts
 My [LinkedIn](https://www.linkedin.com/in/vadym-turchenko-6b5884209/)  

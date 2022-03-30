@@ -44,6 +44,7 @@ Update maven dependencies in case you are using any other version of the listed 
 3. Configure ```src/main/java/taxi/util/ConnectionUtil.java``` with your ```URL```, ```USERNAME```, ```PASSWORD``` and ```JDBC_DRIVER```.
 4. In the ```src/main/resources/log4j2.xml``` at line 7 you also need to set ```ABSOLUTE_PATH``` to your ```.log``` file.
 
+---
 ##Your database should look like this
 
 ![Alt text](src/main/resources/taxi-database-image.png?raw=true "Database")

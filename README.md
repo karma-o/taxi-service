@@ -47,7 +47,7 @@ Update maven dependencies in case you are using any other version of the listed 
 ---
 ## Your database should look like this
 
-![Alt text](src/main/resources/taxi-database-image.png?raw=true "Database")
+![Alt text](readme.images/taxi-database-image.png?raw=true "Database")
 
 ---
 ## Contacts
